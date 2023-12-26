@@ -1,0 +1,22 @@
+var myFullName = 
+console.log(myFullName);
+var myFullName = "ANUP BAYASKAR";
+console.log("My first & Last Name :-", myFullName);
+var myFullName = "ANUP SUBHAHS BAYASKAR";
+console.log("My Full Name :-", myFullName);
+var MyLove = "I Love Only JS";
+console.log("My Love :-",MyLove );
+var MyFirstName = "ANUP";
+console.log("First Name :-", MyFirstName);
+var MyLastName = "BAYASKAR";
+console.log("Last Name :-",MyLastName);
+var age = "26";
+console.log("age :-",age);
+var address = "(MH)KHAMGAON";
+console.log("Address :-",address); 
+var PinCode = "444303";
+console.log("Pincode :-",PinCode);
+var Gender = "Male";
+console.log("Gender :-",Gender);
+var IsMarrid = "No";
+console.log("Is Married :-",IsMarrid);
