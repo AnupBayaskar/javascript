@@ -1,0 +1,12 @@
+console.log("*********STRING*********");
+var fullName = "ANUP SUBHASH BAYASKAR";
+console.log("Full Name :-",fullName,"type :-",typeof fullName);
+console.log("*********NUMBER*********");
+var yearOfBirth = 1997 ;
+console.log("Year of Birth :-",yearOfBirth,"type :-",typeof yearOfBirth);
+console.log("*********BOOLEAN*********");
+var isMarried = false ;
+console.log("Is Married :-",isMarried,"type :-", typeof isMarried);
+console.log("*********Difference Between null vs undefined*********");
+console.log("null :- null is an assigned value. It means nothing.");
+console.log("undefined :- undefined means a variable has been declared but not defined yet.");
