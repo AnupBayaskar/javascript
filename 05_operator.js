@@ -24,3 +24,6 @@ function squareOfWordLength(str) {
     console.log(`Multiple total no. of words in string :- ${strlength*word}`)
   }
  dev();
+
+
+  
