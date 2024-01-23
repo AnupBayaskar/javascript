@@ -1,6 +1,7 @@
 
 console.log(`************************  STEP 01  *****************************`);
-const isPalindrome = function(word){
+const isPalindrome = function(arg){
+    word=arg.toUpperCase()
     const reversWord=word.split("").reverse().join("");
     return word==reversWord?true:false;
     }
